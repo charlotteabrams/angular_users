@@ -1,0 +1,20 @@
+{
+  "name": "controllingUser",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "charlotteabrams <charlotteabrams92@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/charlotteabrams/angular_filters",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.8"
+  }
+}
